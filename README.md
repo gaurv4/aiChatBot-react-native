@@ -20,9 +20,9 @@ AIChatBot is a smart virtual assistant app built using **React Native** and powe
 
 
 <p align="center">
-  <img src="./screenshots/screenshot1.jpeg" alt="Screen 1" width="30%" />
-  <img src="./screenshots/screenshot2.jpeg" alt="Screen 2" width="30%" />
-  <img src="./screenshots/screenshot3.jpeg" alt="Screen 3" width="30%" />
+  <img src="./screenshots/screenshot1.jpeg" alt="Screen 1" height="50%" width="20%" />
+  <img src="./screenshots/screenshot2.jpeg" alt="Screen 2" height="50%" width="20%" />
+  <img src="./screenshots/screenshot3.jpeg" alt="Screen 3" height="50%" width="20%" />
 </p>
 
 ---
