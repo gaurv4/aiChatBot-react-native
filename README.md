@@ -20,9 +20,9 @@ AIChatBot is a smart virtual assistant app built using **React Native** and powe
 
 
 <p align="center">
-  <img src="./screenshots/screenshot1.jpeg" alt="Screen 1" height="50%" width="20%" />
-  <img src="./screenshots/screenshot2.jpeg" alt="Screen 2" height="50%" width="20%" />
-  <img src="./screenshots/screenshot3.jpeg" alt="Screen 3" height="50%" width="20%" />
+  <img src="./screenshots/screenshot1.jpeg" alt="Screen 1" height="50%" width="15%" />
+  <img src="./screenshots/screenshot2.jpeg" alt="Screen 2" height="50%" width="15%" />
+  <img src="./screenshots/screenshot3.jpeg" alt="Screen 3" height="50%" width="15%" />
 </p>
 
 ---
@@ -36,7 +36,6 @@ AIChatBot is a smart virtual assistant app built using **React Native** and powe
 - **Google Gemini API**
 - **JavaScript**
 - **Expo CLI**
-- **AsyncStorage** *(optional for saving chat history)*
 
 ---
 
@@ -57,14 +56,14 @@ npm install -g expo-cli
 ### 1.Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/aichatbot.git
+  git clone https://github.com/gaurv4/aiChatBot-react-native.git
 ```
 
 ### 2.Navigate into the project folder:
 
 
 ```bash
-  cd aichatbot
+  cd aiChatBot-react-native
 ```
 
 ### 3.Install the dependencies:
@@ -125,7 +124,7 @@ For major changes, please open an issue first to discuss what you'd like to chan
 
 ## 🪪 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
