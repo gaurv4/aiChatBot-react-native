@@ -102,7 +102,7 @@ https://expo.dev/artifacts/eas/fCFWJAnBByYYpmnGkLcjXz.apk
 
 ## 💻 Project Demo
 
-Coming soon – or add a Loom/YT video link here.
+Coming soon –
 
 ---
 
