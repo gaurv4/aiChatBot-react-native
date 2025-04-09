@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "aiChatBot",
+    "slug": "ai-chatbot-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "jsEngine": "hermes",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gaurav04.aiChatBot"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "961af493-742b-4a1f-b35c-94722912ce48"
+      }
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "owner": "gaurav04"
+  }
+}
